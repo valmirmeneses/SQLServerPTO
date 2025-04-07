@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Extended Events">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="(local)\SQLINDY:NORTHAMERICA\jodeardu">
+          <Created>2023-12-17T01:38:27.4370611-05:00</Created>
+          <Type>SQL</Type>
+          <Server>(local)\SQLINDY</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Azure SQL Database file target.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQLINDY:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQLINDY</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Azure SQL Database file target.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Extended Events Internal Objects.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQLINDY:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQLINDY</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Extended Events Internal Objects.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ParseEventData.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQLINDY:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQLINDY</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ParseEventData.sql</FullPath>
+        </FileNode>
+        <FileNode Name="QuickSessionStandard Definition.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQLINDY:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQLINDY</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>QuickSessionStandard Definition.sql</FullPath>
+        </FileNode>
+        <FileNode Name="QuickSessionTSQL Definition.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQLINDY:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQLINDY</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>QuickSessionTSQL Definition.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Sort and Hash Warnings.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQLINDY:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQLINDY</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Sort and Hash Warnings.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQL Azure database differences.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQLINDY:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQLINDY</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQL Azure database differences.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQL Azure Database Session Example.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQLINDY:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQLINDY</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQL Azure Database Session Example.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TestScripterForAzureDB.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQLINDY:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQLINDY</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TestScripterForAzureDB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="What are in the predefined sessions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQLINDY:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQLINDY</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>What are in the predefined sessions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="What Fields are present for a given Event.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQLINDY:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQLINDY</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>What Fields are present for a given Event.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

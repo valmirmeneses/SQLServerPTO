@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="08_Plan_Cache_Query_Store">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Demo1_adhoc_vs_proc_plans.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Demo1_adhoc_vs_proc_plans.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo1_enable_QueryStore.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Demo1_enable_QueryStore.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo2_create_a_workload.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Demo2_create_a_workload.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo2_parameter_sniffing.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Demo2_parameter_sniffing.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo3_query_store_catalog_views.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Demo3_query_store_catalog_views.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo3_querying_the_plan_cache_DMOs.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Demo3_querying_the_plan_cache_DMOs.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo4_exploring_the_reports.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Demo4_exploring_the_reports.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo9_cleanup.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Demo9_cleanup.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
